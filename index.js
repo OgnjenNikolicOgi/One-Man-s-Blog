@@ -12,8 +12,6 @@ app.use(express.static(__dirname + "/public"));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
-
-
 app.get("/", (req, res) => {
     res.sendFile(__dirname + "/src/views/pages/index.html");
 });
