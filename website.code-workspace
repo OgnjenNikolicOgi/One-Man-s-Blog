@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../Dicee+Challenge+-+Starting+Files"
+		},
+		{
+			"path": "../2.1+Using+Node"
+		},
+		{
+			"path": "../2.2+Native+Modules"
+		},
+		{
+			"path": "../2.3+NPM"
+		},
+		{
+			"path": "../2.4+QR+Code+Project"
+		},
+		{
+			"path": "../3.3+Postman"
+		},
+		{
+			"path": "../3.4+Middleware"
+		},
+		{
+			"path": "../3.5+Secrets+Project"
+		},
+		{
+			"path": "../4.0+EJS"
+		},
+		{
+			"path": "../4.1+EJS+Tags"
+		},
+		{
+			"path": "../4.2+Passing+Data"
+		},
+		{
+			"path": "../4.3+EJS+Partials"
+		},
+		{
+			"path": "../4.4+Band+Generator+Project"
+		},
+		{
+			"path": "../Blog Web Application"
+		},
+		{
+			"path": "../Ucenje"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
